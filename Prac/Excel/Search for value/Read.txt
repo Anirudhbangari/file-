@@ -1,0 +1,2 @@
+Use advance filter in search for starting name s ,where criteria is ="s*"
+Use advance filter in search for smart keyword ,where criteria is ="*smart*",allow smart word in any place 
